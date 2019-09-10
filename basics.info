@@ -2,4 +2,10 @@ Cyber Forensics: digging into network traffic and understanding what happened.
 
 Reverse Engineering: deconstructin software in order to determine how it works and exploit it. Uses Ida or Ghidra. 
 
+Binary Exploitation: Very similar to Rev Eng, except the goal is to exploit flaws in the way a binary is built or the code is actually implemented.
+
+crypto: steganography (hiding information inside other information) | cryptopals.com 
+
+web exploitation: hacking anything that speaks HTTP(s). Many bug bounty programs limit their scope to web exploitation, as this is one of the hardest fields to defend. portswigger.net/burp | nmap.org | sqlmap.org
+
 
